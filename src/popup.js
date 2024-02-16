@@ -65,7 +65,7 @@ async function onLoginButtonClick() {
   //append log to editable log
   appendToEditableLog(`Get token thành công: ${data.token}, token đã được lưu`)
   //tính năng lấy event ở trang fb đã hoạt động
-  appendToEditableLog(`<strong>Tính năng lấy event ở trang fb đã hoạt động</strong>`)
+  //appendToEditableLog(`<strong>Tính năng lấy event ở trang fb đã hoạt động</strong>`)
 
   // alert(JSON.stringify(data))
   doSave();

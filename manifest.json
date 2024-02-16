@@ -21,39 +21,6 @@
         "src/jquery.js",
         "src/Main.js"
       ]
-    },
-    {
-      "matches": [
-        "https://courses.ctda.hcmus.edu.vn/course/view.php?id=*",
-        "https://courses.hcmus.edu.vn/course/view.php?id=*"
-      ],
-      "js": [
-        "src/jquery.js",
-        "src/courses-page.js"
-      ]
-    },
-    {
-      "matches": [
-        "https://courses.ctda.hcmus.edu.vn/",
-        "https://courses.ctda.hcmus.edu.vn/?*",
-        "https://courses.hcmus.edu.vn/",
-        "https://courses.hcmus.edu.vn/?*"
-      ],
-      "js": [
-        "src/jquery.js",
-        "src/home-page.js"
-      ]
-    },
-    {
-      "matches": [
-        "https://*.facebook.com/*"
-      ],
-      "js": [
-        "src/jquery.js",
-        "src/facebook/injected.js",
-        "src/alpinejs.min.js"
-      ]
     }
-
   ]
 }
